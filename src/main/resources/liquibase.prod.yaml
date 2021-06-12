@@ -1,0 +1,9 @@
+contexts: prod,common
+changeLogFile: db/changelog/db.changelog-master.xml
+url: jdbc:sqlserver://localhost:1433;databaseName=db0001_prod;
+username: sa
+password: Testing1122990
+driver: com.microsoft.sqlserver.jdbc.SQLServerDriver
+verbose: true
+logging: debug
+

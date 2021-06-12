@@ -1,0 +1,3 @@
+CREATE TABLE prodtable1 (
+	id INTEGER IDENTITY(1, 1) 
+)
