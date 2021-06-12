@@ -1,0 +1,9 @@
+CREATE OR ALTER PROCEDURE [dbo].[auth_user_by_id]
+AS
+BEGIN TRY  
+	PRINT ('1')
+END TRY  
+BEGIN CATCH
+	
+END CATCH;
+
